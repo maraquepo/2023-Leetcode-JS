@@ -29,11 +29,11 @@
 - [ ] House Robber
 - [ ] House Robber II
 - [ ] Decode Ways
-- [x] Unique Paths
+- [ ] Unique Paths
 - [ ] Jump Game
 
 ## Graph
-- [x] Clone Graph
+- [ ] Clone Graph
 - [ ] Course Schedule
 - [ ] Pacific Atlantic Water Flow
 - [ ] Number of Islands
@@ -43,14 +43,14 @@
 - [ ] Number of Connected Components in an Undirected Graph
 
 ## Interval
-- [x] Insert Interval
-- [x] Merge Intervals
-- [x] Non-overlapping Intervals
+- [ ] Insert Interval
+- [ ] Merge Intervals
+- [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms
 - [ ] Meeting Rooms II
 
 ## Linked List
-- [ ] Reverse a Linked List
+- [x] Reverse a Linked List
 - [ ] Detect Cycle in a Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Merge K Sorted Lists
@@ -58,21 +58,21 @@
 - [ ] Reorder List
 
 ## Matrix
-- [x] Set Matrix Zero
+- [ ] Set Matrix Zero
 - [ ] Spiral Matrix
 - [ ] Rotate Image
-- [x] Word Search
+- [ ] Word Search
 
 ## String
-- [x] Longest Substring Without Repeating Character
+- [ ] Longest Substring Without Repeating Character
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
 - [ ] Valid Anagram
 - [ ] Group Anagrams
-- [x] Valid Parentheses
+- [ ] Valid Parentheses
 - [ ] Valid Palindrome
 - [ ] Longest Palindromic Substring
-- [x] Palindromic Substring
+- [ ] Palindromic Substring
 - [ ] Encode and Decode Strings
 
 ## Tree
@@ -85,7 +85,7 @@
 - [ ] Subtree of Another Tree
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Validate Binary Search Tree
-- [x] Kth Smallest Element in a BST
+- [ ] Kth Smallest Element in a BST
 - [ ] Lowest Common Ancestor of BST
 - [ ] Implement Trie (Prefix Tree)
 - [ ] Add and Search Word
@@ -97,4 +97,4 @@
 - [ ] Find Median from Data Stream
 
 ## Extra
-- [x] Minimum Size Subarray Sum
+- [ ] Minimum Size Subarray Sum
