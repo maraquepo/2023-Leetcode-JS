@@ -1,9 +1,9 @@
 # Top 75 LeetCode Questions
 
 ## Array
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] Best Time to Buy and Sell
-- [ ] Contains Duplicate
+- [x] Contains Duplicate
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
