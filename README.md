@@ -2,10 +2,10 @@
 
 ## Array
 - [x] Two Sum
-- [ ] Best Time to Buy and Sell
+- [x] Best Time to Buy and Sell
 - [x] Contains Duplicate
 - [ ] Product of Array Except Self
-- [ ] Maximum Subarray
+- [x] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
