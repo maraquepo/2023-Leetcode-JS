@@ -6,8 +6,8 @@
 - [x] Contains Duplicate
 - [ ] Product of Array Except Self
 - [x] Maximum Subarray
-- [ ] Maximum Product Subarray
-- [ ] Find Minimum in Rotated Sorted Array
+- [Xg] Maximum Product Subarray
+- [X] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
 - [ ] 3Sum
 - [ ] Container With Most Water
