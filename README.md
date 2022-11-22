@@ -8,63 +8,12 @@
 - [x] Maximum Subarray
 - [X] Maximum Product Subarray
 - [X] Find Minimum in Rotated Sorted Array
-- [ ] Search in Rotated Sorted Array
+- [x] Search in Rotated Sorted Array
 - [ ] 3Sum
-- [ ] Container With Most Water
-
-## Binary
-- [ ] Sum of Two Integers
-- [ ] Number of 1 Bits
-- [ ] Counting Bits
-- [ ] Missing Number
-- [ ] Reverse Bits
-
-## Dynamic Programming
-- [ ] Climbing Stairs
-- [ ] Coin Change
-- [ ] Longest Increasing Subsequence
-- [ ] Longest Common Subsequence
-- [ ] Word Break Problem
-- [ ] Combination Sumnation
-- [ ] House Robber
-- [ ] House Robber II
-- [ ] Decode Ways
-- [ ] Unique Paths
-- [ ] Jump Game
-
-## Graph
-- [ ] Clone Graph
-- [ ] Course Schedule
-- [ ] Pacific Atlantic Water Flow
-- [ ] Number of Islands
-- [ ] Longest Consecutive Sequences
-- [ ] Alien Dictionary
-- [ ] Graph Valid Tree
-- [ ] Number of Connected Components in an Undirected Graph
-
-## Interval
-- [ ] Insert Interval
-- [ ] Merge Intervals
-- [ ] Non-overlapping Intervals
-- [ ] Meeting Rooms
-- [ ] Meeting Rooms II
-
-## Linked List
-- [x] Reverse a Linked List
-- [x] Detect Cycle in a Linked List
-- [x] Merge Two Sorted Lists
-- [ ] Merge K Sorted Lists
-- [ ] Remove Nth Node From End Of List
-- [ ] Reorder List
-
-## Matrix
-- [ ] Set Matrix Zero
-- [ ] Spiral Matrix
-- [ ] Rotate Image
-- [ ] Word Search
+- [x] Container With Most Water
 
 ## String
-- [ ] Longest Substring Without Repeating Character
+- [x] Longest Substring Without Repeating Character
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
 - [ ] Valid Anagram
@@ -74,6 +23,12 @@
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substring
 - [ ] Encode and Decode Strings
+
+## Matrix
+- [ ] Set Matrix Zero
+- [ ] Spiral Matrix
+- [ ] Rotate Image
+- [ ] Word Search
 
 ## Tree
 - [ ] Maximum Depth of Binary Tree
@@ -91,10 +46,55 @@
 - [ ] Add and Search Word
 - [ ] Word Search II
 
+## Graph
+- [ ] Clone Graph
+- [ ] Course Schedule
+- [ ] Pacific Atlantic Water Flow
+- [ ] Number of Islands
+- [ ] Longest Consecutive Sequences
+- [ ] Alien Dictionary
+- [ ] Graph Valid Tree
+- [ ] Number of Connected Components in an Undirected Graph
+
+## Linked List
+- [x] Reverse a Linked List
+- [x] Detect Cycle in a Linked List
+- [x] Merge Two Sorted Lists
+- [ ] Merge K Sorted Lists
+- [ ] Remove Nth Node From End Of List
+- [ ] Reorder List
+
+## Interval
+- [ ] Insert Interval
+- [ ] Merge Intervals
+- [ ] Non-overlapping Intervals
+- [ ] Meeting Rooms
+- [ ] Meeting Rooms II
+
 ## Heap
 - [ ] Merge K Sorted Lists
 - [ ] Top K Frequent Elements
 - [ ] Find Median from Data Stream
+
+## Dynamic Programming
+- [ ] Climbing Stairs
+- [ ] Coin Change
+- [ ] Longest Increasing Subsequence
+- [ ] Longest Common Subsequence
+- [ ] Word Break Problem
+- [ ] Combination Sumnation
+- [ ] House Robber
+- [ ] House Robber II
+- [ ] Decode Ways
+- [ ] Unique Paths
+- [ ] Jump Game
+
+## Binary
+- [ ] Sum of Two Integers
+- [ ] Number of 1 Bits
+- [ ] Counting Bits
+- [ ] Missing Number
+- [ ] Reverse Bits
 
 ## Extra
 - [ ] Minimum Size Subarray Sum
