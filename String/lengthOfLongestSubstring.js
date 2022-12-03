@@ -21,37 +21,51 @@ let lengthOfLongestSubstring = (s) => {
 /*
 pwwkek
 
+set = {}
+
 left = 0
 maxSize = 0
 
-i = 0
-set = {'p'}
-maxSize = 0 - 0 + 1
+set = { p , }
 maxSize = 1
 
 i = 1
-set = {'p', 'w'}
-maxSize = 1 - 0 + 1
-maxSize = 2
+set = { p }
+left = 0
+maxSize = 1
+set = { p, w }
+maxSizs = 2
 
 i = 2
-set = {'w'}
+set delete { p }
 left = 1
 
-set = {}
+set delete { w }
 left = 2
 
-set = {'w'}
-
-i = 3
-set = {'w','k'}
-maxSize = 3 - 2 + 1
+set add { w }
+maxSize = 2 vs 2 - 2 + 1
 maxSize = 2
 
-i =4
-set = {'k', 'e'}
-maxSize = 4 - 2 + 1
+i = 3
+set add k => { w, k }
+3 - 2 + 1 = 2
+maxSize = 2
+
+i = 4
+set add e => { w, k, e }
+4 - 2 + 1 = 3
 maxSize = 3
 
 i = 5
-set = {}
+setDelete w => { k, e}
+left = 3
+
+setDelete k => { e }
+left = 4
+
+set Add k { e , k}
+maxSize = (3, 5 - 4 + 1 = 2)
+
+
+*/
