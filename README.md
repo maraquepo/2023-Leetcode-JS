@@ -14,15 +14,15 @@
 
 ## String
 - [x] Longest Substring Without Repeating Character
-- [ ] Longest Repeating Character Replacement
-- [ ] Minimum Window Substring
-- [ ] Valid Anagram
-- [ ] Group Anagrams
-- [ ] Valid Parentheses
+- [x] Longest Repeating Character Replacement
+- [x] Valid Anagram
+- [x] Group Anagrams
+- [x] Valid Parentheses
 - [ ] Valid Palindrome
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substring
 - [ ] Encode and Decode Strings
+- [ ] Minimum Window Substring
 
 ## Matrix
 - [ ] Set Matrix Zero
