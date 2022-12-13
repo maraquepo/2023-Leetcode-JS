@@ -9,8 +9,8 @@
 - [X] Maximum Product Subarray
 - [X] Find Minimum in Rotated Sorted Array
 - [x] Search in Rotated Sorted Array
-- [ ] 3Sum
 - [x] Container With Most Water
+- [ ] 3Sum
 
 ## String
 - [x] Longest Substring Without Repeating Character
@@ -18,33 +18,33 @@
 - [x] Valid Anagram
 - [x] Group Anagrams
 - [x] Valid Parentheses
-- [ ] Valid Palindrome
-- [ ] Longest Palindromic Substring
-- [ ] Palindromic Substring
-- [ ] Encode and Decode Strings
+- [x] Valid Palindrome
+- [x] Longest Palindromic Substring
+- [x] Palindromic Substring
 - [ ] Minimum Window Substring
+- [ ] Encode and Decode Strings
 
 ## Matrix
-- [ ] Set Matrix Zero
-- [ ] Spiral Matrix
-- [ ] Rotate Image
-- [ ] Word Search
+- [x] Set Matrix Zero
+- [x] Spiral Matrix
+- [x] Rotate Image
+- [x] Word Search
 
 ## Tree
-- [ ] Maximum Depth of Binary Tree
-- [ ] Same Tree
-- [ ] Invert/Flip Binary Tree
-- [ ] Binary Tree Maximum Path Sum
-- [ ] Binary Tree Level Order Traversal
-- [ ] Serialize and Deserialize Binary Tree
-- [ ] Subtree of Another Tree
-- [ ] Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] Validate Binary Search Tree
-- [ ] Kth Smallest Element in a BST
-- [ ] Lowest Common Ancestor of BST
-- [ ] Implement Trie (Prefix Tree)
-- [ ] Add and Search Word
+- [x] Maximum Depth of Binary Tree
+- [x] Same Tree
+- [x] Invert/Flip Binary Tree
+- [x] Binary Tree Level Order Traversal
+- [x] Subtree of Another Tree
+- [x] Construct Binary Tree from Preorder and Inorder Traversal
+- [x] Validate Binary Search Tree
+- [x] Kth Smallest Element in a BST
+- [x] Lowest Common Ancestor of BST
+- [x] Implement Trie (Prefix Tree)
 - [ ] Word Search II
+- [ ] Add and Search Word
+- [ ] Binary Tree Maximum Path Sum
+- [ ] Serialize and Deserialize Binary Tree
 
 ## Graph
 - [ ] Clone Graph
