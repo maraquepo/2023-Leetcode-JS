@@ -47,22 +47,22 @@
 - [ ] Serialize and Deserialize Binary Tree
 
 ## Graph
-- [ ] Clone Graph
-- [ ] Course Schedule
-- [ ] Pacific Atlantic Water Flow
-- [ ] Number of Islands
-- [ ] Longest Consecutive Sequences
+- [x] Clone Graph
+- [x] Pacific Atlantic Water Flow
+- [x] Number of Islands
+- [x] Longest Consecutive Sequences
+- [x] Graph Valid Tree
+- [x] Number of Connected Components in an Undirected Graph
 - [ ] Alien Dictionary
-- [ ] Graph Valid Tree
-- [ ] Number of Connected Components in an Undirected Graph
+- [ ] Course Schedule
 
 ## Linked List
 - [x] Reverse a Linked List
 - [x] Detect Cycle in a Linked List
 - [x] Merge Two Sorted Lists
-- [ ] Merge K Sorted Lists
-- [ ] Remove Nth Node From End Of List
+- [x] Remove Nth Node From End Of List
 - [ ] Reorder List
+- [ ] Merge K Sorted Lists
 
 ## Interval
 - [ ] Insert Interval
