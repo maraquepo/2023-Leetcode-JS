@@ -1,4 +1,4 @@
-# Top 75 LeetCode Questions
+# Top 75 LeetCode Questions 41/75
 
 ## Array
 - [x] Two Sum
@@ -7,8 +7,8 @@
 - [x] Product of Array Except Self
 - [x] Maximum Subarray
 - [X] Maximum Product Subarray
-- [X] Find Minimum in Rotated Sorted Array
-- [x] Search in Rotated Sorted Array
+- [X] Find Minimum in Rotated Sorted Array @
+- [x] Search in Rotated Sorted Array @
 - [x] Container With Most Water
 - [ ] 3Sum
 
@@ -61,7 +61,7 @@
 - [x] Detect Cycle in a Linked List
 - [x] Merge Two Sorted Lists
 - [x] Remove Nth Node From End Of List
-- [ ] Reorder List
+- [x] Reorder List
 - [ ] Merge K Sorted Lists
 
 ## Interval
@@ -77,17 +77,17 @@
 - [ ] Find Median from Data Stream
 
 ## Dynamic Programming
+- [ ] Unique Paths
+- [ ] House Robber
+- [ ] Jump Game
 - [ ] Climbing Stairs
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
 - [ ] Word Break Problem
 - [ ] Combination Sumnation
-- [ ] House Robber
 - [ ] House Robber II
 - [ ] Decode Ways
-- [ ] Unique Paths
-- [ ] Jump Game
 
 ## Binary
 - [ ] Sum of Two Integers
@@ -98,3 +98,7 @@
 
 ## Extra
 - [ ] Minimum Size Subarray Sum
+- [ ] Kth Smallest Element in a Sorted Matrix
+- [ ] Search a 2D Matrix
+- [ ] Kth Largest Element in an Array
+- [ ] Median of Two Sorted Arrays
