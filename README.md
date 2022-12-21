@@ -65,22 +65,22 @@
 - [ ] Merge K Sorted Lists
 
 ## Interval
-- [ ] Insert Interval
-- [ ] Merge Intervals
-- [ ] Non-overlapping Intervals
-- [ ] Meeting Rooms
+- [x] Insert Interval
+- [x] Merge Intervals
+- [x] Non-overlapping Intervals
+- [x] Meeting Rooms
 - [ ] Meeting Rooms II
 
 ## Heap
-- [ ] Merge K Sorted Lists
-- [ ] Top K Frequent Elements
+- [x] Top K Frequent Elements
+- [x] Merge K Sorted Lists
 - [ ] Find Median from Data Stream
 
 ## Dynamic Programming
-- [ ] Unique Paths
 - [ ] House Robber
-- [ ] Jump Game
+- [x] Jump Game
 - [ ] Climbing Stairs
+- [ ] Unique Paths
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
@@ -102,3 +102,7 @@
 - [ ] Search a 2D Matrix
 - [ ] Kth Largest Element in an Array
 - [ ] Median of Two Sorted Arrays
+- [ ] Rotate Function
+- [ ] Next Permutation
+- [ ] Find Duplicate File in System
+- [ ] Find Anagram Mappings
