@@ -1,18 +1,20 @@
 # Top 75 LeetCode Questions 41/75
 
 ## Array
+
 - [x] Two Sum
 - [x] Best Time to Buy and Sell
 - [x] Contains Duplicate
 - [x] Product of Array Except Self
 - [x] Maximum Subarray
-- [X] Maximum Product Subarray
-- [X] Find Minimum in Rotated Sorted Array @
+- [x] Maximum Product Subarray
+- [x] Find Minimum in Rotated Sorted Array @
 - [x] Search in Rotated Sorted Array @
 - [x] Container With Most Water
 - [ ] 3Sum
 
 ## String
+
 - [x] Longest Substring Without Repeating Character
 - [x] Longest Repeating Character Replacement
 - [x] Valid Anagram
@@ -25,12 +27,14 @@
 - [ ] Encode and Decode Strings
 
 ## Matrix
+
 - [x] Set Matrix Zero
 - [x] Spiral Matrix
 - [x] Rotate Image
 - [x] Word Search
 
 ## Tree
+
 - [x] Maximum Depth of Binary Tree
 - [x] Same Tree
 - [x] Invert/Flip Binary Tree
@@ -47,6 +51,7 @@
 - [ ] Serialize and Deserialize Binary Tree
 
 ## Graph
+
 - [x] Clone Graph
 - [x] Pacific Atlantic Water Flow
 - [x] Number of Islands
@@ -57,6 +62,7 @@
 - [ ] Course Schedule
 
 ## Linked List
+
 - [x] Reverse a Linked List
 - [x] Detect Cycle in a Linked List
 - [x] Merge Two Sorted Lists
@@ -65,6 +71,7 @@
 - [ ] Merge K Sorted Lists
 
 ## Interval
+
 - [x] Insert Interval
 - [x] Merge Intervals
 - [x] Non-overlapping Intervals
@@ -72,11 +79,13 @@
 - [ ] Meeting Rooms II
 
 ## Heap
+
 - [x] Top K Frequent Elements
 - [x] Merge K Sorted Lists
 - [ ] Find Median from Data Stream
 
 ## Dynamic Programming
+
 - [ ] House Robber
 - [x] Jump Game
 - [ ] Climbing Stairs
@@ -90,6 +99,7 @@
 - [ ] Decode Ways
 
 ## Binary
+
 - [ ] Sum of Two Integers
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
@@ -97,6 +107,7 @@
 - [ ] Reverse Bits
 
 ## Extra
+
 - [ ] Minimum Size Subarray Sum
 - [ ] Kth Smallest Element in a Sorted Matrix
 - [ ] Search a 2D Matrix
@@ -106,3 +117,5 @@
 - [ ] Next Permutation
 - [ ] Find Duplicate File in System
 - [ ] Find Anagram Mappings
+
+THIS IS A TEST
